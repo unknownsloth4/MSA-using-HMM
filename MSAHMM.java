@@ -3,9 +3,9 @@ public class MSAHMM {
 	public static void main(String args[]){  
 	
 	String car[][] = new String[][] {
-					{"X", "X", "Y"},
-					{"X", "X", "X"},
-					{"X", "X", "X"}
+					{"A", "C", "S", "A"},
+					{"A", "S", "T"},
+					{"A", "C", "C", "S", "T"}
 					};
 					
 		for (i=0; i<car.length; i++) {
